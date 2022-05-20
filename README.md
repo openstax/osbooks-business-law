@@ -1,5 +1,7 @@
 # Business Law I Essentials
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 _Business Law I Essentials_ is a textbook published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
 
 The book can be viewed [online](https://openstax.org/details/books/business-law-i-essentials), where you can also see a list of contributors.
