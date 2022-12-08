@@ -1,455 +1,130 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mirande Valbrune ,Renee De Assis ,Suzanne Cardell ,Tess C. Taylor ,Dr. Natalie Sappleton ,C. M. Mitchell ,Kenneth Mitchell-Phillips">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col30149</md:content-id>
-  <md:title>Business Law I Essentials</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>464a3fba-68c1-426a-99f9-597e739dc911</md:uuid>
-<md:slug>business-law-i-essentials</md:slug>
-</metadata>
-
+    <md:content-id>col30149</md:content-id>
+    <md:title>Business Law I Essentials</md:title>
+    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>464a3fba-68c1-426a-99f9-597e739dc911</md:uuid>
+    <md:slug>business-law-i-essentials</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m78967"/>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>American Law, Legal Reasoning, and the Legal System</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78875"/>
-        
-      
-    
-    
-      <col:module document="m78876"/>
-        
-      
-    
-    
-      <col:module document="m78877"/>
-        
-      
-    
-    
-      <col:module document="m78878"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Disputes and Dispute Settlement</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78879"/>
-        
-      
-    
-    
-      <col:module document="m78880"/>
-        
-      
-    
-    
-      <col:module document="m78921"/>
-        
-      
-    
-    
-      <col:module document="m78882"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Business Ethics and Social Responsibility</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78883"/>
-        
-      
-    
-    
-      <col:module document="m78884"/>
-        
-      
-    
-    
-      <col:module document="m78885"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Business and the United States Constitution</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78886"/>
-        
-      
-    
-    
-      <col:module document="m78922"/>
-        
-      
-    
-    
-      <col:module document="m78888"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Criminal Liability</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78889"/>
-        
-      
-    
-    
-      <col:module document="m78890"/>
-        
-      
-    
-    
-      <col:module document="m78891"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>The Tort System</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78892"/>
-        
-      
-    
-    
-      <col:module document="m78893"/>
-        
-      
-    
-    
-      <col:module document="m78894"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Contract Law</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78895"/>
-        
-      
-    
-    
-      <col:module document="m78896"/>
-        
-      
-    
-    
-      <col:module document="m78897"/>
-        
-      
-    
-    
-      <col:module document="m78898"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Sales Contracts</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78899"/>
-        
-      
-    
-    
-      <col:module document="m78900"/>
-        
-      
-    
-    
-      <col:module document="m78901"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Employment and Labor Law</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78902"/>
-        
-      
-    
-    
-      <col:module document="m78903"/>
-        
-      
-    
-    
-      <col:module document="m78904"/>
-        
-      
-    
-    
-      <col:module document="m78905"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Government Regulation</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78906"/>
-        
-      
-    
-    
-      <col:module document="m78907"/>
-        
-      
-    
-    
-      <col:module document="m78908"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Antitrust Law</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78909"/>
-        
-      
-    
-    
-      <col:module document="m78910"/>
-        
-      
-    
-    
-      <col:module document="m78911"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Unfair Trade Practices and the Federal Trade Commission</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78912"/>
-        
-      
-    
-    
-      <col:module document="m78913"/>
-        
-      
-    
-    
-      <col:module document="m78914"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>International Law</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78915"/>
-        
-      
-    
-    
-      <col:module document="m78916"/>
-        
-      
-    
-    
-      <col:module document="m78917"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Securities Regulation</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m78918"/>
-        
-      
-    
-    
-      <col:module document="m78919"/>
-        
-      
-    
-    
-      <col:module document="m78920"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:module document="m78967"/>
+    <col:subcollection>
+      <md:title>American Law, Legal Reasoning, and the Legal System</md:title>
+      <col:content>
+        <col:module document="m78875"/>
+        <col:module document="m78876"/>
+        <col:module document="m78877"/>
+        <col:module document="m78878"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Disputes and Dispute Settlement</md:title>
+      <col:content>
+        <col:module document="m78879"/>
+        <col:module document="m78880"/>
+        <col:module document="m78921"/>
+        <col:module document="m78882"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Business Ethics and Social Responsibility</md:title>
+      <col:content>
+        <col:module document="m78883"/>
+        <col:module document="m78884"/>
+        <col:module document="m78885"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Business and the United States Constitution</md:title>
+      <col:content>
+        <col:module document="m78886"/>
+        <col:module document="m78922"/>
+        <col:module document="m78888"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Criminal Liability</md:title>
+      <col:content>
+        <col:module document="m78889"/>
+        <col:module document="m78890"/>
+        <col:module document="m78891"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Tort System</md:title>
+      <col:content>
+        <col:module document="m78892"/>
+        <col:module document="m78893"/>
+        <col:module document="m78894"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Contract Law</md:title>
+      <col:content>
+        <col:module document="m78895"/>
+        <col:module document="m78896"/>
+        <col:module document="m78897"/>
+        <col:module document="m78898"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sales Contracts</md:title>
+      <col:content>
+        <col:module document="m78899"/>
+        <col:module document="m78900"/>
+        <col:module document="m78901"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Employment and Labor Law</md:title>
+      <col:content>
+        <col:module document="m78902"/>
+        <col:module document="m78903"/>
+        <col:module document="m78904"/>
+        <col:module document="m78905"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Government Regulation</md:title>
+      <col:content>
+        <col:module document="m78906"/>
+        <col:module document="m78907"/>
+        <col:module document="m78908"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Antitrust Law</md:title>
+      <col:content>
+        <col:module document="m78909"/>
+        <col:module document="m78910"/>
+        <col:module document="m78911"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unfair Trade Practices and the Federal Trade Commission</md:title>
+      <col:content>
+        <col:module document="m78912"/>
+        <col:module document="m78913"/>
+        <col:module document="m78914"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>International Law</md:title>
+      <col:content>
+        <col:module document="m78915"/>
+        <col:module document="m78916"/>
+        <col:module document="m78917"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Securities Regulation</md:title>
+      <col:content>
+        <col:module document="m78918"/>
+        <col:module document="m78919"/>
+        <col:module document="m78920"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
